@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zikirlo.DAL\Zikirlo.DAL.csproj" />
+    <ProjectReference Include="..\Zikirlo.Domain\Zikirlo.Domain.csproj" />
+    <ProjectReference Include="..\Zikirlo.Shared\Zikirlo.Shared.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

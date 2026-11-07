@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 85px;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: #22d3ee;
+  color: #0b1220;
+}

@@ -1,0 +1,11 @@
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\bin\Debug\net10.0\Zikirlo.Shared.deps.json
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\bin\Debug\net10.0\Zikirlo.Shared.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\bin\Debug\net10.0\Zikirlo.Shared.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\Zikirlo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\Zikirlo.Shared.AssemblyInfoInputs.cache
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\Zikirlo.Shared.AssemblyInfo.cs
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\Zikirlo.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\Zikirlo.Shared.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\refint\Zikirlo.Shared.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\Zikirlo.Shared.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Shared\obj\Debug\net10.0\ref\Zikirlo.Shared.dll

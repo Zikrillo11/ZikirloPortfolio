@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Zikirlo.API/Zikirlo.API.csproj" />
+  <Project Path="Zikirlo.BLL/Zikirlo.BLL.csproj" />
+  <Project Path="Zikirlo.DAL/Zikirlo.DAL.csproj" />
+  <Project Path="Zikirlo.Domain/Zikirlo.Domain.csproj" />
+  <Project Path="Zikirlo.Shared/Zikirlo.Shared.csproj" />
+</Solution>

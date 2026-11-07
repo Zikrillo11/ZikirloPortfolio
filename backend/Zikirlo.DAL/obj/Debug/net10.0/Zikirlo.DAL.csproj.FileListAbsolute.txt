@@ -1,0 +1,17 @@
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\bin\Debug\net10.0\Zikirlo.DAL.deps.json
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\bin\Debug\net10.0\Zikirlo.DAL.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\bin\Debug\net10.0\Zikirlo.DAL.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\bin\Debug\net10.0\Zikirlo.Domain.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\bin\Debug\net10.0\Zikirlo.Shared.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\bin\Debug\net10.0\Zikirlo.Domain.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\bin\Debug\net10.0\Zikirlo.Shared.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo.DAL.csproj.AssemblyReference.cache
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo.DAL.AssemblyInfoInputs.cache
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo.DAL.AssemblyInfo.cs
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo..E9F2EB06.Up2Date
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo.DAL.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\refint\Zikirlo.DAL.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\Zikirlo.DAL.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.DAL\obj\Debug\net10.0\ref\Zikirlo.DAL.dll

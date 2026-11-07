@@ -1,0 +1,11 @@
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\bin\Debug\net10.0\Zikirlo.Domain.deps.json
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\bin\Debug\net10.0\Zikirlo.Domain.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\bin\Debug\net10.0\Zikirlo.Domain.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\Zikirlo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\Zikirlo.Domain.AssemblyInfoInputs.cache
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\Zikirlo.Domain.AssemblyInfo.cs
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\Zikirlo.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\Zikirlo.Domain.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\refint\Zikirlo.Domain.dll
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\Zikirlo.Domain.pdb
+C:\Projects\ZikirloPortfolio\backend\Zikirlo.Domain\obj\Debug\net10.0\ref\Zikirlo.Domain.dll
